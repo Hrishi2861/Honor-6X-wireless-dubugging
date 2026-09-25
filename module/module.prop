@@ -1,0 +1,6 @@
+id=adb_autoenable
+name=ADB Auto-Enable (No-Touch)
+version=v1.0
+versionCode=1
+author=Hrishikesh
+description=Enables USB debugging, disables the ADB authorization prompt, and starts ADB over TCP 5555 so a PC can connect over WiFi/hotspot with no cable and no touch. Honor 6X / EMUI 8 / Android 8. GitHub: https://github.com/Hrishi2861 | TG: https://t.me/rtx5069

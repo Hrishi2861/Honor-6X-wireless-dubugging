@@ -1,0 +1,5 @@
+# Build artifacts
+adb_autoenable.zip
+
+# Agent / editor scratch
+.claude/

@@ -1,0 +1,4 @@
+# Disable the ADB RSA authorization prompt (any host may connect)
+ro.adb.secure=0
+# Make adbd listen on TCP port 5555 (classic ADB-over-network)
+service.adb.tcp.port=5555
